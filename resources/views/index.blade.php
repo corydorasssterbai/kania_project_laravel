@@ -128,10 +128,12 @@
                             <h2 class="text-white text-7xl font-bold leading-tight">Dr.</h2>
                             <h2 class="text-white text-7xl font-bold leading-tight">Martens</h2>
                             <p class="text-white text-xl mt-4">8053 Leather Shoes</p>
+
                             <div class="size-options mt-8 flex gap-4">
                                 <a href="#" class="text-white bg-white/20 rounded-full px-6 py-2">38</a>
                                 <a href="#" class="text-white bg-white/20 rounded-full px-6 py-2">39</a>
                                 <a href="#" class="text-white bg-white/20 rounded-full px-6 py-2">40</a>
+                                <a href="{{ route ('about') }}"class="text=1xl font-bold mb-4">Selengkapnya...</a>
                             </div>
                         </div>
                         <img src="/image assets/8053 Leather Shoes.png">

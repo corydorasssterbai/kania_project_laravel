@@ -7,10 +7,12 @@
 </head>
 <body>
     <header class = "bg-red-300">
+    <div class="container mx-auto p-5 flex justify-center items-center">
   <h1 class="text-3xl font-bold underline">
     About me!
   </h1>
   <div>
 </header>
+<a href="{{route('home')}}" class="text-1xl font-bold mb-4">Kembali</a>
 </body>
 </html>
